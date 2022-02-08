@@ -7,3 +7,9 @@
     and enjoy everyone laughs at you lolz
 5. Terraform init
 6. Terraform destroy!
+
+## Things to change
+
+1. Provider EMAIL
+1. credentials.txt
+1. zone.tf
